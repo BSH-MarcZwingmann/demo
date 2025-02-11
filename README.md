@@ -30,3 +30,5 @@ named `perspective` (for example [...&perspective=Security](https://structurizr.
 <iframe id="cloudServiceSecurity" src="https://structurizr.com/embed/38000?diagram=LiveDeployment&diagramSelector=false&iframe=cloudServiceSecurity&perspective=Security" width="100%" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowfullscreen="true" class="thumbnail"></iframe>
 
 <script type="text/javascript" src="https://static.structurizr.com/js/structurizr-embed.js"></script>
+
+![Alt text](https://www.bergwelten.com/files/article/images/everest.jpg "a title")
