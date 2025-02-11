@@ -23,12 +23,10 @@ Once some perspectives have been added to the model, you can then use the
 ![binoculars button](../bootstrap-icons/binoculars.svg) button to view the current diagram with a given perspective.
 
 ## Embedded diagrams
-
+<script type="text/javascript" src="https://static.structurizr.com/js/structurizr-embed.js"></script>
 You can highlight a given perspective on a diagram embedded using an iframe by adding a parameter to the query string
 named `perspective` (for example [...&perspective=Security](https://structurizr.com/embed/38000?diagram=LiveDeployment&diagramSelector=false&iframe=cloudServiceSecurity&perspective=Security)).
 
 <iframe id="cloudServiceSecurity" src="https://structurizr.com/embed/38000?diagram=LiveDeployment&diagramSelector=false&iframe=cloudServiceSecurity&perspective=Security" width="100%" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowfullscreen="true" class="thumbnail"></iframe>
 
-<script type="text/javascript" src="https://static.structurizr.com/js/structurizr-embed.js"></script>
 
-![Alt text](https://www.bergwelten.com/files/article/images/everest.jpg "a title")
